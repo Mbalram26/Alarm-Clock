@@ -1,4 +1,5 @@
 # Alarm-Clock
+Alarm Clock By BALRAM MAIND.
 
 # Alarm-Clock using Vanilla JavaScript
 
@@ -33,8 +34,12 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
   - When the user deletes an alarm make sure it “does not alerts the user”
 
 <br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+# PRODUCT DEMO
 
+![Alarm-Clock]<img src="img_of_clock.png">   <br>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # LINKS
 
@@ -51,11 +56,3 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 </a>
 
 </p>
-
-
-
-
-
-
-
- 
