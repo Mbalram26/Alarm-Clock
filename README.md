@@ -37,7 +37,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 # PRODUCT DEMO
 
-![Alarm-Clock]<img src="Alarm-Preview.png" width="300" height="300">   <br>
+![Alarm-Clock]<img src="Alarm-Preview.png" width="500" height="500">   <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
